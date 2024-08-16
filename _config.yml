@@ -1,3 +1,5 @@
 remote_theme: pages-themes/slate@v0.2.0
+title: [Not Your Abuelita's Games'
+description: [short description]
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
